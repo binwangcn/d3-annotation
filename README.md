@@ -3,6 +3,8 @@
 Full documentation: [http://d3-annotation.susielu.com](http://d3-annotation.susielu.com)
 
 ## Upgrade to D3 v7
+susielu's d3-annotation v2 work with d3 until v5, d3 v6's breaking change removed the global d3.event which case the drag event not work at all.
+just adopt v7's event handle approch to make it work at d3 v7.
 
 ## Setup 
 ### Include the file directly
