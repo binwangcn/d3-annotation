@@ -2,6 +2,8 @@
 
 Full documentation: [http://d3-annotation.susielu.com](http://d3-annotation.susielu.com)
 
+## Upgrade to D3 v7
+
 ## Setup 
 ### Include the file directly
 
